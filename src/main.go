@@ -1,4 +1,4 @@
-//en go siempre se debe declarar un package en este cao es el archivo principal asi que usa main
+// en go siempre se debe declarar un package en este cao es el archivo principal asi que usa main
 package main
 
 // al guardar la extension de go nos importa automaticamente los paquetes utilizados
